@@ -1,7 +1,6 @@
 
 # README 
-
-API creada prueba técnica de Superbeauty Marzo de 2024.
+Marzo de 2024.
 Autor: Giselle Andrea Quiceno Osorio
 user: giselleandrea
 
